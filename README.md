@@ -24,5 +24,3 @@ Libraries: Pandas, HV Plot, FBProphet, holoviews, pystan
 ![alt text](https://github.com/rhurst11/Fintech_Module_11_Challenge/blob/main/screenshotsMod11/mercado5.png)
 
 ![alt text](https://github.com/rhurst11/Fintech_Module_11_Challenge/blob/main/screenshotsMod11/mercado6.png)
-
-![alt text]()
